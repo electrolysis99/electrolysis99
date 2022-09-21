@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shakir from Semenyih, Selangor
 - 👀 I’m very interested in PHP & Laravel Framework
-- 📫 Reach me at shakir.nsa@gmail.com
+- 📫 Reach me at shakir.webdevelop@gmail.com
